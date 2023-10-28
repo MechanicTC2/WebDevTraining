@@ -62,6 +62,18 @@ function Home() {
             <td>Table Content 6</td>
           </tr>
         </table>
+
+        <form>
+        <label for="form">Choose a team:</label>
+        <select name="form">
+            <option value="2637">2637</option>
+            <option value="5199">5199</option>
+            <option value="4201">4201</option>
+            <option value="9999">9999</option>
+          </select>
+         <input type="submit" value="Submit" />
+        </form>
+  
       </div>
     </body>
   </html>
