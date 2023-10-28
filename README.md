@@ -1,3 +1,7 @@
+This project is for current 2637 Web Dev training: (React only)
+
+# React training
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
